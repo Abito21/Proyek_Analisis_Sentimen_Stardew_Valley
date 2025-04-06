@@ -1,6 +1,6 @@
 # Submission Dicoding "BelajarPengembang Machine Learning" : Review APK Stardew Valley Google Play Store ✨
 
-Repository ini berisikan projek klasifikasi gambar menggunakan dataset yang di scraping melalui API Google Play Store untuk review aplikasi Stardew Valley.
+Repository ini berisikan projek klasifikasi teks menggunakan dataset yang di scraping melalui API Google Play Store untuk review aplikasi Stardew Valley.
 
 ## Instalasi
 
